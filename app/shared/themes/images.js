@@ -1,0 +1,31 @@
+// leave off @2x/@3x
+const images = {
+  clearLogo: require('../images/top-logo.png'),
+  logoLogin: require('../images/logo-login.png'),
+  logoJhipster: require('../images/logo-jhipster.png'),
+  logoJhipsterDrinkCoffee: require('../images/logo-jhipster-drink-coffee.png'),
+  ready: require('../images/your-app.png'),
+  chevronLeftIcon: require('../images/chevron-left.png'),
+  menuIcon: require('../images/bars.png'),
+  background: require('../images/bg.png'),
+  logo:require('../images/logo.png'),
+  home:require('../images/home.png'),
+  profile:require('../images/profile.png'),
+  selectedhome:require('../images/homeSelected.png'),
+  selectedprofile:require('../images/profileSelected.png'),
+  menu:require('../images/menu.png'),
+  bell:require('../images/bell.png'),
+  leftArrow:require('../images/chevron-left.png'),
+  pen:require('../images/pen.png'),
+  upload:require('../images/upload.png'),
+  selectedSearch:require('../images/selectSearch.png'),
+  search:require('../images/search.png'),
+  event:require('../images/event.png'),
+  selectedEvent:require('../images/selectEvent.png'),
+  selectedTicket:require('../images/selectTicket.png'),
+  ticket:require('../images/ticket.png'),
+  selectedPlus:require('../images/selectPlus.png'),
+  plus:require('../images/plus.png'),
+}
+
+export default images

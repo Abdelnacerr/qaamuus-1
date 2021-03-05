@@ -1,0 +1,45 @@
+{
+	"generator-jhipster": {
+		"promptValues": {
+			"packageName": "com.fogaanbarad",
+			"nativeLanguage": "en"
+		},
+		"jhipsterVersion": "6.10.5",
+		"applicationType": "monolith",
+		"baseName": "fogaanbarad",
+		"packageName": "com.fogaanbarad",
+		"packageFolder": "com/fogaanbarad",
+		"serverPort": "8080",
+		"authenticationType": "jwt",
+		"cacheProvider": "no",
+		"websocket": false,
+		"databaseType": "sql",
+		"devDatabaseType": "mysql",
+		"prodDatabaseType": "mysql",
+		"searchEngine": false,
+		"messageBroker": false,
+		"serviceDiscoveryType": "eureka",
+		"buildTool": "gradle",
+		"enableSwaggerCodegen": false,
+		"jwtSecretKey": "ODhmZTNmYTc2ODU5MzBhYmRmMzUxNDQ2Zjg0MmNiODc4YTM1OGFlMmQxMWVkMTNiYTE4MmQ2YjQ3YTg3ZWUyNzYyMWIzZDQ3YzIyZmZlNmQ5ZTdhZWZhNjZkNTUwZDhiNjQzMWRmYjk4NTVhYzkzZmYxZjg1OTQ3YmUyNTExZDg=",
+		"embeddableLaunchScript": false,
+		"useSass": true,
+		"clientPackageManager": "npm",
+		"clientFramework": "react",
+		"clientTheme": "darkly",
+		"clientThemeVariant": "primary",
+		"creationTimestamp": 1609344435921,
+		"testFrameworks": [],
+		"jhiPrefix": "jhi",
+		"entitySuffix": "",
+		"dtoSuffix": "DTO",
+		"otherModules": [],
+		"enableTranslation": true,
+		"nativeLanguage": "en",
+		"languages": [
+			"en"
+		],
+		"blueprints": [],
+		"reactive": true
+	}
+}

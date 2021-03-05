@@ -1,0 +1,59 @@
+{
+    "Regions": [
+        {
+            "ID": "1",
+            "RegionName": "Banadir",
+            "State": "Banadir"
+        },
+        {
+            "ID": "2",
+            "RegionName": "Lower Juba",
+            "State": "Jubaland"
+        },
+        {
+            "ID": "3",
+            "RegionName": "Bay",
+            "State": "SouthWest"
+        },
+        {
+            "ID": "4",
+            "RegionName": "Galgadud",
+            "State": "Galmudug"
+        },
+        {
+            "ID": "5",
+            "RegionName": "Mudug",
+            "State": "Galmudug"
+        },
+        {
+            "ID": "6",
+            "RegionName": "Gedo",
+            "State": "Jubaland"
+        },
+        {
+            "ID": "7",
+            "RegionName": "Middle Juba",
+            "State": "Jubaland"
+        },
+        {
+            "ID": "8",
+            "RegionName": "Hiiraan",
+            "State": "Hirshabelle"
+        },
+        {
+            "ID": "9",
+            "RegionName": "Middle Shabelle",
+            "State": "Hirshabelle"
+        },
+        {
+            "ID": "10",
+            "RegionName": "Bakool",
+            "State": "SouthWest"
+        },
+        {
+            "ID": "11",
+            "RegionName": "Lower Shabelle",
+            "State": "SouthWest"
+        }
+    ]
+}
